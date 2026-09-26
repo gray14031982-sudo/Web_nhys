@@ -1,0 +1,6 @@
+{
+  "name": "Finance Scholar - Quản Lý Lộ Trình & Dự Báo GPA",
+  "description": "Ứng dụng quản lý lộ trình cử nhân Tài chính - Ngân hàng, theo dõi tiến độ buổi học, tính GPA thang 10 & thang 4, và mô phỏng điểm số tốt nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
